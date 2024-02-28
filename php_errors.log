@@ -1,0 +1,27 @@
+[28-Feb-2024 22:09:02 Europe/Berlin] PHP Warning:  Module "soap" is already loaded in Unknown on line 0
+[28-Feb-2024 22:26:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function simpleUpload() in /home/rocio/Servidor-Linux/Tema 9/upload.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 9/upload.php on line 24
+[28-Feb-2024 22:27:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function simpleUpload() in /home/rocio/Servidor-Linux/Tema 9/upload.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 9/upload.php on line 24
+[28-Feb-2024 22:28:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function simpleUpload() in /home/rocio/Servidor-Linux/Tema 9/upload.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 9/upload.php on line 24
+[28-Feb-2024 22:47:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function simpleUpload() in /home/rocio/Servidor-Linux/Tema 9/upload.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 9/upload.php on line 24
+[28-Feb-2024 22:47:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function simpleUpload() in /home/rocio/Servidor-Linux/Tema 9/upload.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 9/upload.php on line 24
+[28-Feb-2024 22:51:09 Europe/Berlin] PHP Warning:  move_uploaded_file(directorio/destino/65dfaacd1ee87.jpg): Failed to open stream: No such file or directory in /home/rocio/Servidor-Linux/Tema 9/upload.php on line 24
+[28-Feb-2024 22:51:09 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phppwK9ti&quot; to &quot;directorio/destino/65dfaacd1ee87.jpg&quot; in /home/rocio/Servidor-Linux/Tema 9/upload.php on line 24
+[28-Feb-2024 22:53:14 Europe/Berlin] PHP Warning:  move_uploaded_file(Apps/rocioBox/65dfab4a9a932.jpg): Failed to open stream: No such file or directory in /home/rocio/Servidor-Linux/Tema 9/upload.php on line 24
+[28-Feb-2024 22:53:14 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phph5EJ5Y&quot; to &quot;Apps/rocioBox/65dfab4a9a932.jpg&quot; in /home/rocio/Servidor-Linux/Tema 9/upload.php on line 24
+[28-Feb-2024 23:33:42 Europe/Berlin] PHP Warning:  POST Content-Length of 10339371 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Feb-2024 23:33:59 Europe/Berlin] PHP Warning:  POST Content-Length of 10339371 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
